@@ -21,10 +21,10 @@ The **Advanced Inventory Management System** is a web-based application designed
 - **API Testing Tool:** Postman
 - **Version Control:** Git & GitHub
 
-<img src='./src/images/Screenshot 2024-11-27 195528.png' style="width:90%; height:350px; border:5px solid black padding-bottom:3px;">
-<img src='./src/images/Screenshot 2024-11-27 195621.png' style="width:90%; height:350px; border:5px solid black;padding-bottom:3px">
-<img src='./src/images/Screenshot 2024-11-27 200020.png' style="width:90%; height:350px; border:5px solid black;padding-bottom:3px">
-<img src='./src/images/Screenshot 2024-11-27 200036.png' style="width:90%; height:350px; border:5px solid black;padding-bottom:3px">
+<img src='./src/images/Screenshot 2024-11-27 195528.png' style="width:80%; height:350px; border:5px solid black padding-bottom:3px;">
+<img src='./src/images/Screenshot 2024-11-27 195621.png' style="width:80%; height:350px; border:5px solid black;padding-bottom:3px">
+<img src='./src/images/Screenshot 2024-11-27 200020.png' style="width:80%; height:350px; border:5px solid black;padding-bottom:3px">
+<img src='./src/images/Screenshot 2024-11-27 200036.png' style="width:80%; height:350px; border:5px solid black;padding-bottom:3px">
 
 
 
