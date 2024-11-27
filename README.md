@@ -1,5 +1,5 @@
 # Advanced-Inventory-Management-System
-# **Advanced Inventory Management System**
+
 
 ## **Overview**
 The **Advanced Inventory Management System** is a web-based application designed to streamline inventory management for businesses. The system leverages a robust backend built with **Spring Boot** and stores data in **MongoDB**, providing a scalable and efficient solution for tracking inventory items, categories, and quantities.
@@ -21,10 +21,10 @@ The **Advanced Inventory Management System** is a web-based application designed
 - **API Testing Tool:** Postman
 - **Version Control:** Git & GitHub
 
-<img src='./src/images/Screenshot 2024-11-27 195528.png' style="width:90%; height:400px; border:5px solid black padding-bottom:3px;">
-<img src='./src/images/Screenshot 2024-11-27 195621.png' style="width:90%; height:400px; border:5px solid black;padding-bottom:3px">
-<img src='./src/images/Screenshot 2024-11-27 200020.png' style="width:90%; height:400px; border:5px solid black;padding-bottom:3px">
-<img src='./src/images/Screenshot 2024-11-27 200036.png' style="width:90%; height:400px; border:5px solid black;padding-bottom:3px">
+<img src='./src/images/Screenshot 2024-11-27 195528.png' style="width:90%; height:350px; border:5px solid black padding-bottom:3px;">
+<img src='./src/images/Screenshot 2024-11-27 195621.png' style="width:90%; height:350px; border:5px solid black;padding-bottom:3px">
+<img src='./src/images/Screenshot 2024-11-27 200020.png' style="width:90%; height:350px; border:5px solid black;padding-bottom:3px">
+<img src='./src/images/Screenshot 2024-11-27 200036.png' style="width:90%; height:350px; border:5px solid black;padding-bottom:3px">
 
 
 
